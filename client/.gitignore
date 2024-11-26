@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+sampleMap.tmx
+sampleSheet.tsx
